@@ -9,13 +9,14 @@
 - 🌐 **Web Development:**  
   - HTML5 🌟  
   - CSS3 🎨  
-  - Bootstrap 💅  
-  - JavaScript (beginner-intermediate) 📜
-  - React JS (beginner-intermediate) ⚛️
-  - Node JS (beginner-intermediate) 🌳
-  - Express JS (beginner-intermediate) 🚂
-  - MongoDB (beginner-intermediate) 🍃
-  - Angular JS (beginner-intermediate) 🅰️
+  - Bootstrap 💅
+  - Tailwind CSS 💨  
+  - JavaScript 📜
+  - React JS ⚛️
+  - Node JS 🌳
+  - Express JS 🚂
+  - MongoDB 🍃
+  - Angular JS 🅰️
 - 🐍 **Python** (beginner-intermediate)
 - 🔧 Always excited to learn and experiment with new technologies!
 
