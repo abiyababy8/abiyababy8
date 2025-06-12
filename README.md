@@ -10,7 +10,12 @@
   - HTML5 🌟  
   - CSS3 🎨  
   - Bootstrap 💅  
-  - JavaScript (beginner-intermediate) 📜  
+  - JavaScript (beginner-intermediate) 📜
+  - React JS (beginner-intermediate) ⚛️
+  - Node JS (beginner-intermediate) 🌳
+  - Express JS (beginner-intermediate) 🚂
+  - MongoDB (beginner-intermediate) 🍃
+  - Angular JS (beginner-intermediate) 🅰️
 - 🐍 **Python** (beginner-intermediate)
 - 🔧 Always excited to learn and experiment with new technologies!
 
